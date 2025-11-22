@@ -1,4 +1,4 @@
-# 01 :: Concentrated Will
+# 01 :: Patience
 
 Reducing complexity
 Is the essence of good design.
